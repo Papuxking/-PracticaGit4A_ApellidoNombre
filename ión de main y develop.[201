@@ -1,0 +1,30 @@
+[33mcommit e498ec64a621648eec5cd83624c33086f4e2a1e2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d266161 436ca2b
+Author: CV2 CV2 <2cv36985@gmail.com>
+Date:   Wed Apr 24 15:59:04 2024 -0500
+
+    Merge branch 'develop'
+
+[33mcommit d266161c2f9651d3128995c90f9e717390b16623[m
+Author: CV2 CV2 <2cv36985@gmail.com>
+Date:   Wed Apr 24 15:55:47 2024 -0500
+
+    Se agregó la información académica en un nuevo archivo.
+
+[33mcommit 436ca2b989a0ed0dbd7c0b24ddc0dcd66d5b4493[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: CV2 CV2 <2cv36985@gmail.com>
+Date:   Wed Apr 24 15:51:04 2024 -0500
+
+    Se agregó un resumen de mi CV.
+
+[33mcommit 1b9fcd82de84c2842fc0a14e84d8da1e596f10bb[m
+Author: CV2 CV2 <2cv36985@gmail.com>
+Date:   Wed Apr 24 15:38:21 2024 -0500
+
+    Se agregó Bootstrap al proyecto, menú e información personal.
+
+[33mcommit edb86dd0fde9546cef083f7569f61440d2642984[m
+Author: Papuxking <152533095+Papuxking@users.noreply.github.com>
+Date:   Wed Apr 24 15:19:00 2024 -0500
+
+    Estructura base del proyecto
